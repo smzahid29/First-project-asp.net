@@ -24,7 +24,7 @@ namespace Display_about_yourself
             Console.WriteLine("Age: " + age);
             Console.WriteLine("Contact: " + contact);
             Console.WriteLine("Address " + address);
-            Console.WriteLine(" Thank you ");
+            Console.WriteLine(" Thank you zahid ");
 
             Console.ReadKey();
 
